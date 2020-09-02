@@ -14,7 +14,7 @@ You will need to follow the Lambda School Git Workflow to add a file to this pro
   - [x] Run your usual git commands for adding/committing and pushing **Be sure to push to your branch!**
 - [x] Create a Pull-Request to submit your work
   - [x] Use your own student fork as the base (compare across forks, base-fork -> main).
-  - [ ] Add your TL as a reviewer on the Pull-Request
+  - [x] Add your TL as a reviewer on the Pull-Request
 - [ ] TL then will count the Assignment as done by merging the HW back into main "STUDENT FORK".
 
 ## Task 2: MVP
